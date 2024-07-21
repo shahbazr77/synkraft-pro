@@ -1,0 +1,21 @@
+#synkraft-recaptcha-container {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+#synkraft-recaptcha-container iframe {
+    max-width: 100%;
+}
+
+#synkraft-register-recaptcha-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+#synkraft-register-recaptcha-container iframe {
+    max-width: 100%;
+}
